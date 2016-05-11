@@ -1,0 +1,15 @@
+C:\Users\Aneela\AppData\Local\Temporary Projects\DataConn\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Aneela\AppData\Local\Temporary Projects\DataConn\obj\x86\Debug\DataConn.Form1.resources
+C:\Users\Aneela\AppData\Local\Temporary Projects\DataConn\obj\x86\Debug\DataConn.Properties.Resources.resources
+C:\Users\Aneela\AppData\Local\Temporary Projects\DataConn\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Aneela\AppData\Local\Temporary Projects\DataConn\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Aneela\documents\visual studio 2010\Projects\DataConn\DataConn\bin\Debug\DataConn.exe.config
+C:\Users\Aneela\documents\visual studio 2010\Projects\DataConn\DataConn\bin\Debug\Data.accdb
+C:\Users\Aneela\documents\visual studio 2010\Projects\DataConn\DataConn\bin\Debug\DataConn.exe
+C:\Users\Aneela\documents\visual studio 2010\Projects\DataConn\DataConn\bin\Debug\DataConn.pdb
+C:\Users\Aneela\documents\visual studio 2010\Projects\DataConn\DataConn\obj\x86\Debug\DataConn.Form1.resources
+C:\Users\Aneela\documents\visual studio 2010\Projects\DataConn\DataConn\obj\x86\Debug\DataConn.Properties.Resources.resources
+C:\Users\Aneela\documents\visual studio 2010\Projects\DataConn\DataConn\obj\x86\Debug\DataConn.exe
+C:\Users\Aneela\documents\visual studio 2010\Projects\DataConn\DataConn\obj\x86\Debug\DataConn.pdb
+C:\Users\Aneela\documents\visual studio 2010\Projects\DataConn\DataConn\bin\Debug\Aneela.accdb
+C:\Users\Aneela\Documents\Visual Studio 2010\Projects\DataConn\DataConn\obj\x86\Debug\DataConn.csproj.GenerateResource.Cache
